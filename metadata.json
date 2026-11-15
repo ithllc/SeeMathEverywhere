@@ -1,0 +1,11 @@
+{
+  "name": "SeeMathEverywhere",
+  "description": "The world is the textbook. Point your camera at the physical world to discover, visualize, and understand real-world mathematics and physics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#060B16"/>
+  <rect x="24" y="24" width="464" height="464" rx="92" stroke="#1E293B" stroke-width="4"/>
+  <!-- Coordinate horizon line -->
+  <line x1="96" y1="328" x2="416" y2="328" stroke="#334155" stroke-width="6" stroke-dasharray="12 10" stroke-linecap="round"/>
+  <!-- Surface normal -->
+  <line x1="256" y1="140" x2="256" y2="328" stroke="#64748B" stroke-width="5" stroke-dasharray="8 8" stroke-linecap="round"/>
+  <!-- Math triangle / perspective lines (Electric Cyan) -->
+  <path d="M124 328 L256 144 L388 328" stroke="#22D3EE" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Angle arc (Electric Cyan) -->
+  <path d="M214 203 A 72 72 0 0 0 298 203" stroke="#22D3EE" stroke-width="8" stroke-linecap="round"/>
+  <!-- Physics reflection wave / vector (Warm Amber) -->
+  <path d="M128 380 Q 192 352 256 380 T 384 380" stroke="#F59E0B" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="256" cy="144" r="14" fill="#F59E0B"/>
+  <circle cx="124" cy="328" r="10" fill="#22D3EE"/>
+  <circle cx="388" cy="328" r="10" fill="#22D3EE"/>
+</svg>
